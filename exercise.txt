@@ -1,0 +1,6 @@
+1) write a program to calculate & display area of circle using given radius.
+2) write a program to calculate & display meter & remaining foot of given foot. 
+3) write a program to calculate & display simple interest of given amount, rate and year.
+4) write a program to calculate & display celsius of given fahrenheit.
+5) write a program to calculate & display fahrenheit of given celsius.
+6) write a program to calculate & display kilograms and remaining grams of given grams.
