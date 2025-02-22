@@ -31,5 +31,33 @@ use wise categories of operators
   4 >  used to check whether right side variable is greater then left side variable or not 
   5 <= used to check left side variable is less then or equal to right side variable
   6 >=used to check right side variable is greater then or equal to left side variable
+logical operators.
+    logical operators are used to combine two or more relational expressions. there are 3 logical operators
+        1) and operators
+            and operators check both relational expressions. if both expressions are true it return true(1) otherwise it return false(0)
+        2) or operators
+            or operators check both relational expressions. if any one of the expressions are true it returns true(1) otherwise it returns false. 
+        3) not operators
+            not operator reverse result of any relational expressions. if relational is true it returns false. if relational expressions false it return true
 
+assignment operators
+    assignment operators are used to write down any mathematical expressions in shorter way. 
 
+    assignment operators 
+    += can be as a+=b when we need write a = a + b
+    += can be as a+=1 when we need write a = a + 1
+    -= can be as a-=b when we need write a = a - b
+    *= can be as a*=b when we need write a = a * b
+    /= can be as a/=b when we need write a = a / b
+    %= can be as a%=b when we need write a = a % b
+
+    unary operator
+        1 operands and 1 operator
+        a++ (postfix)
+            first assign and then increment 
+        ++a (prefix)
+            first in increment then assign
+    a = 10
+    b= a++ b = 10 and a = 11
+    a = 10 
+    b= ++a b = 11 and a = 11
