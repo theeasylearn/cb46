@@ -15,4 +15,7 @@ void main()
     c = 20;
     result = a == b || b == c;
     printf("\n%d = %d == %d || %d == %d", result, a, b, b, c);
+
+    result = !(b == c);
+    printf("\n%d = %d == %d", result,b, c);
 }
