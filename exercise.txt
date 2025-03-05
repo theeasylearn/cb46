@@ -56,3 +56,5 @@ loop
 
 12) write a program to findout whether given number is prime or not 
 13) write a program to findout whether given number is perfect or not 
+
+14) write a program to convert lowercase letter into uppercase letter and uppercase letter into lowercase letter.
