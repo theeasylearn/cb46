@@ -54,5 +54,12 @@ loop
 10) 1, 1, 2, 5, 14
 11) 1, 7, 10, 13, 19
 
+<<<<<<< HEAD
 12) write a program to findout whether given number is prime or not 
 13) write a program to findout whether given number is perfect or not 
+=======
+
+12) write a program to findout whether given number is prime number or not.
+13) write a program to findout whether given number is perfect number or not.
+
+>>>>>>> 2885c8e091bf7040cebbb3fe465ae2edb43a7186
